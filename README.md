@@ -54,7 +54,7 @@ python app/unemployment.py
 Run the stocks report:
 
 ```sh
-python app/stocks.py
+python app/stocks_report.py
 ```
 
 Run the email sender:
